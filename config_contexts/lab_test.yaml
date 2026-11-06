@@ -1,0 +1,10 @@
+_metadata:
+  name: Lab NTP and DNS Settings
+  weight: 1000
+  description: Test config context pulled from GitHub
+  is_active: true
+ntp_servers:
+  - 10.0.0.1
+  - 10.0.0.2
+dns_servers:
+  - 8.8.8.8
